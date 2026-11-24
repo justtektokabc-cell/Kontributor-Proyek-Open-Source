@@ -8,7 +8,7 @@ open-source beserta peran dan jumlah commit tiap kontributor.
 - Tambah star dan catat commit
 - Tampilkan repository trending beserta maintainer
 - Tolak penghapusan maintainer terakhir
-- (tambahkan fitur saran dan eksplorasi)
+- Fitur mendatang saat pengembangan (COMING SOON)
 ## Struktur Data
 - MLL-01: list kontributor, list repository, relasi di dalam parent
 - BST: peringkat repository dengan key jumlah star
